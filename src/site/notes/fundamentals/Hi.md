@@ -4,7 +4,6 @@
 
 ### Programming-basics-course
 ```dataview
-table
-from "fucdamentals"
+table tags, date
+from "Programming-basics-course"
 ```
-
